@@ -1,0 +1,14 @@
+matplotlib
+seaborn
+scikit-learn
+jupyter
+typing
+collections
+math
+random
+requests
+tarfile
+glob
+io
+re
+os
