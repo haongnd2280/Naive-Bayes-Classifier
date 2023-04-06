@@ -20,4 +20,4 @@ This project implemented Multinomial Naive Bayes and used the model to filter (c
     - Used Lidstone smoothing as pseudocount to prevent zero probabilities.
 3. Testing and using the model: 
     - Unit tested the model.
-    - Applied the model on the [SpamAssassin public corpus](https://spamassassin.apache.org/old/publiccorpus/) dataset.
+    - Applied the model on the [SpamAssassin public corpus](https://spamassassin.apache.org/old/publiccorpus/) dataset, achieved 92% accuracy.
